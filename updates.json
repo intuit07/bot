@@ -1,0 +1,49 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 321835138,
+      "message": {
+        "entities": [
+          {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+          }
+        ],
+        "date": 1540663233,
+        "from": {
+          "is_bot": false,
+          "first_name": "Zheka",
+          "id": 275330781
+        },
+        "chat": {
+          "first_name": "Zheka",
+          "type": "private",
+          "id": 275330781
+        },
+        "message_id": 1,
+        "text": "/start"
+      }
+    },
+    {
+      "update_id": 321835139,
+      "message": {
+        "text": "привет",
+        "chat": {
+          "first_name": "Zheka",
+          "type": "private",
+          "id": 275330781
+        },
+        "message_id": 4,
+        "from": {
+          "is_bot": false,
+          "first_name": "Zheka",
+          "language_code": "ru-UA",
+          "id": 275330781
+        },
+        "date": 1540666639
+      }
+    }
+  ]
+}
